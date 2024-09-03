@@ -16,13 +16,13 @@ My Team Leave Requests
 
 Leave tracker 
 on loading the page and click on leave tracker this will open
+while counting the leave taken days the holidays and weekends are excluded to ensure holidays and weekends does not count in leavedays
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/6e29248d-6a3d-4c82-969e-e1cceb0cdc70)
 
 
 
-Employee under  Leave tracker
-shows the employee taken leaves specifed by id
+shows the employees Leave tracker under Him/Her specifed by id
 
 ![Screenshot (9)](https://github.com/user-attachments/assets/c2591574-dd9e-4790-b0ef-23f53648d1fe)
 
@@ -37,6 +37,7 @@ when adding a leave the validations are checked
      if selected days  exceed the remaining leaves by leavetype it will 
      throw  a message
      
+     
 ![Screenshot (11)](https://github.com/user-attachments/assets/28369254-99d3-47b9-9254-4da76cab6133)
 
 logout 
@@ -48,6 +49,9 @@ login page
 without logging in if we try to access the dashboard.html it will redirect to login page this check when the Dom is loading 
 
 
+Holidays
+
+![Screenshot (28)](https://github.com/user-attachments/assets/fc39e34e-e273-40f8-9de7-308022e3310b)
 
 
 
