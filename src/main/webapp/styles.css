@@ -1,29 +1,29 @@
 .vertical-navbar {
-            height: 100vh; /* Full viewport height */
-            position: fixed; /* Fixed position to stay in place */
+            height: 100vh; 
+            position: fixed;
             top: 0;
             left: 0;
-            width: 250px; /* Width of the vertical navbar */
-            background-color: #f8f9fa; /* Background color */
-            border-right: 1px solid #dee2e6; /* Optional border */
-            padding-top: 20px; /* Add some padding at the top */
+            width: 250px; 
+            background-color: #f8f9fa; 
+            border-right: 1px solid #dee2e6;
+            padding-top: 20px;
         }
         .vertical-navbar .navbar-nav {
-            list-style-type: none; /* Remove default list styling (dots) */
-            padding: 0; /* Remove default padding */
+            list-style-type: none; 
+            padding: 0;
         }
         .vertical-navbar .nav-item {
-            margin-bottom: 10px; /* Space between nav items */
+            margin-bottom: 10px;
         }
         .vertical-navbar .btn {
-            width: 100%; /* Make buttons span the full width */
+            width: 100%; 
         }
         .navbar-brand h3 {
-            margin: 0; /* Remove default margin from the heading */
-            padding: 0 20px; /* Add some padding around the heading */
+            margin: 0; 
+            padding: 0 20px;
         }
         .content {
-            margin-left: 250px; /* Margin for content to avoid overlapping with the navbar */
+            margin-left: 250px;
             padding: 20px;
         }
         .nav-item{
